@@ -1,0 +1,1 @@
+The example application from the "Writing Facebook Applications with PHP" section of Chapter 16, "Building Social Applications with Heroku".
